@@ -3,8 +3,11 @@ name: Update OptiFine JSON
 on:
   schedule:
     - cron: '0 0 * * 0'
-  workflow_dispatch: 
-
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      
 permissions:
   contents: write
 
