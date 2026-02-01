@@ -1,0 +1,1290 @@
+[
+  {
+    "full_name": "OptiFine_1.21.11_HD_U_J8.jar",
+    "mc_version": "1.21.11",
+    "patch_version": "J8",
+    "filename": "OptiFine_1.21.11_HD_U_J8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.21.11_HD_U_J8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.21.4_HD_U_J3.jar",
+    "mc_version": "1.21.4",
+    "patch_version": "J3",
+    "filename": "OptiFine_1.21.4_HD_U_J3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.21.4_HD_U_J3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.21.3_HD_U_J2.jar",
+    "mc_version": "1.21.3",
+    "patch_version": "J2",
+    "filename": "OptiFine_1.21.3_HD_U_J2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.21.3_HD_U_J2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.21.1_HD_U_J1.jar",
+    "mc_version": "1.21.1",
+    "patch_version": "J1",
+    "filename": "OptiFine_1.21.1_HD_U_J1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.21.1_HD_U_J1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.20.4_HD_U_I7.jar",
+    "mc_version": "1.20.4",
+    "patch_version": "I7",
+    "filename": "OptiFine_1.20.4_HD_U_I7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.20.4_HD_U_I7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.20.1_HD_U_I6.jar",
+    "mc_version": "1.20.1",
+    "patch_version": "I6",
+    "filename": "OptiFine_1.20.1_HD_U_I6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.20.1_HD_U_I5.jar",
+    "mc_version": "1.20.1",
+    "patch_version": "I5",
+    "filename": "OptiFine_1.20.1_HD_U_I5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.20.1_HD_U_I5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.4_HD_U_I4.jar",
+    "mc_version": "1.19.4",
+    "patch_version": "I4",
+    "filename": "OptiFine_1.19.4_HD_U_I4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.4_HD_U_I4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.4_HD_U_I3.jar",
+    "mc_version": "1.19.4",
+    "patch_version": "I3",
+    "filename": "OptiFine_1.19.4_HD_U_I3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.4_HD_U_I3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.3_HD_U_I3.jar",
+    "mc_version": "1.19.3",
+    "patch_version": "I3",
+    "filename": "OptiFine_1.19.3_HD_U_I3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.3_HD_U_I3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.2_HD_U_I2.jar",
+    "mc_version": "1.19.2",
+    "patch_version": "I2",
+    "filename": "OptiFine_1.19.2_HD_U_I2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.2_HD_U_I1.jar",
+    "mc_version": "1.19.2",
+    "patch_version": "I1",
+    "filename": "OptiFine_1.19.2_HD_U_I1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_I1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.2_HD_U_H9.jar",
+    "mc_version": "1.19.2",
+    "patch_version": "H9",
+    "filename": "OptiFine_1.19.2_HD_U_H9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.2_HD_U_H9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19.1_HD_U_H9.jar",
+    "mc_version": "1.19.1",
+    "patch_version": "H9",
+    "filename": "OptiFine_1.19.1_HD_U_H9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19.1_HD_U_H9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19_HD_U_H9.jar",
+    "mc_version": "1.19",
+    "patch_version": "H9",
+    "filename": "OptiFine_1.19_HD_U_H9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19_HD_U_H9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.19_HD_U_H8.jar",
+    "mc_version": "1.19",
+    "patch_version": "H8",
+    "filename": "OptiFine_1.19_HD_U_H8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.19_HD_U_H8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18.2_HD_U_H9.jar",
+    "mc_version": "1.18.2",
+    "patch_version": "H9",
+    "filename": "OptiFine_1.18.2_HD_U_H9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18.2_HD_U_H7.jar",
+    "mc_version": "1.18.2",
+    "patch_version": "H7",
+    "filename": "OptiFine_1.18.2_HD_U_H7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18.2_HD_U_H6.jar",
+    "mc_version": "1.18.2",
+    "patch_version": "H6",
+    "filename": "OptiFine_1.18.2_HD_U_H6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18.2_HD_U_H6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18.1_HD_U_H6.jar",
+    "mc_version": "1.18.1",
+    "patch_version": "H6",
+    "filename": "OptiFine_1.18.1_HD_U_H6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18.1_HD_U_H5.jar",
+    "mc_version": "1.18.1",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.18.1_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18.1_HD_U_H4.jar",
+    "mc_version": "1.18.1",
+    "patch_version": "H4",
+    "filename": "OptiFine_1.18.1_HD_U_H4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18.1_HD_U_H4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.18_HD_U_H3.jar",
+    "mc_version": "1.18",
+    "patch_version": "H3",
+    "filename": "OptiFine_1.18_HD_U_H3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.18_HD_U_H3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.17.1_HD_U_H1.jar",
+    "mc_version": "1.17.1",
+    "patch_version": "H1",
+    "filename": "OptiFine_1.17.1_HD_U_H1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_H1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.17.1_HD_U_G9.jar",
+    "mc_version": "1.17.1",
+    "patch_version": "G9",
+    "filename": "OptiFine_1.17.1_HD_U_G9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.17.1_HD_U_G9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.5_HD_U_G8.jar",
+    "mc_version": "1.16.5",
+    "patch_version": "G8",
+    "filename": "OptiFine_1.16.5_HD_U_G8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.5_HD_U_G7.jar",
+    "mc_version": "1.16.5",
+    "patch_version": "G7",
+    "filename": "OptiFine_1.16.5_HD_U_G7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.5_HD_U_G6.jar",
+    "mc_version": "1.16.5",
+    "patch_version": "G6",
+    "filename": "OptiFine_1.16.5_HD_U_G6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.5_HD_U_G6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.4_HD_U_G7.jar",
+    "mc_version": "1.16.4",
+    "patch_version": "G7",
+    "filename": "OptiFine_1.16.4_HD_U_G7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.4_HD_U_G6.jar",
+    "mc_version": "1.16.4",
+    "patch_version": "G6",
+    "filename": "OptiFine_1.16.4_HD_U_G6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.4_HD_U_G5.jar",
+    "mc_version": "1.16.4",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.16.4_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.4_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.3_HD_U_G5.jar",
+    "mc_version": "1.16.3",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.16.3_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.3_HD_U_G4.jar",
+    "mc_version": "1.16.3",
+    "patch_version": "G4",
+    "filename": "OptiFine_1.16.3_HD_U_G4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.3_HD_U_G3.jar",
+    "mc_version": "1.16.3",
+    "patch_version": "G3",
+    "filename": "OptiFine_1.16.3_HD_U_G3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.3_HD_U_G3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.2_HD_U_G5.jar",
+    "mc_version": "1.16.2",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.16.2_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.2_HD_U_G3.jar",
+    "mc_version": "1.16.2",
+    "patch_version": "G3",
+    "filename": "OptiFine_1.16.2_HD_U_G3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.2_HD_U_G3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.16.1_HD_U_G2.jar",
+    "mc_version": "1.16.1",
+    "patch_version": "G2",
+    "filename": "OptiFine_1.16.1_HD_U_G2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.16.1_HD_U_G2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.15.2_HD_U_G6.jar",
+    "mc_version": "1.15.2",
+    "patch_version": "G6",
+    "filename": "OptiFine_1.15.2_HD_U_G6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.15.2_HD_U_G6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.4_HD_U_G5.jar",
+    "mc_version": "1.14.4",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.14.4_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.4_HD_U_F5.jar",
+    "mc_version": "1.14.4",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.14.4_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.4_HD_U_F4.jar",
+    "mc_version": "1.14.4",
+    "patch_version": "F4",
+    "filename": "OptiFine_1.14.4_HD_U_F4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.4_HD_U_F3.jar",
+    "mc_version": "1.14.4",
+    "patch_version": "F3",
+    "filename": "OptiFine_1.14.4_HD_U_F3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.4_HD_U_F2.jar",
+    "mc_version": "1.14.4",
+    "patch_version": "F2",
+    "filename": "OptiFine_1.14.4_HD_U_F2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.4_HD_U_F2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.3_HD_U_F2.jar",
+    "mc_version": "1.14.3",
+    "patch_version": "F2",
+    "filename": "OptiFine_1.14.3_HD_U_F2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.3_HD_U_F2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.3_HD_U_F1.jar",
+    "mc_version": "1.14.3",
+    "patch_version": "F1",
+    "filename": "OptiFine_1.14.3_HD_U_F1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.3_HD_U_F1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.14.2_HD_U_F1.jar",
+    "mc_version": "1.14.2",
+    "patch_version": "F1",
+    "filename": "OptiFine_1.14.2_HD_U_F1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.14.2_HD_U_F1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.2_HD_U_G5.jar",
+    "mc_version": "1.13.2",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.13.2_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.2_HD_U_F5.jar",
+    "mc_version": "1.13.2",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.13.2_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.2_HD_U_E7.jar",
+    "mc_version": "1.13.2",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.13.2_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.2_HD_U_E6.jar",
+    "mc_version": "1.13.2",
+    "patch_version": "E6",
+    "filename": "OptiFine_1.13.2_HD_U_E6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.2_HD_U_E5.jar",
+    "mc_version": "1.13.2",
+    "patch_version": "E5",
+    "filename": "OptiFine_1.13.2_HD_U_E5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.2_HD_U_E4.jar",
+    "mc_version": "1.13.2",
+    "patch_version": "E4",
+    "filename": "OptiFine_1.13.2_HD_U_E4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.2_HD_U_E4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.1_HD_U_E4.jar",
+    "mc_version": "1.13.1",
+    "patch_version": "E4",
+    "filename": "OptiFine_1.13.1_HD_U_E4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.1_HD_U_E4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13.1_HD_U_E3.jar",
+    "mc_version": "1.13.1",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.13.1_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13.1_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.13_HD_U_E4.jar",
+    "mc_version": "1.13",
+    "patch_version": "E4",
+    "filename": "OptiFine_1.13_HD_U_E4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.13_HD_U_E4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_G5.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.12.2_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_F5.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.12.2_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_F4.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "F4",
+    "filename": "OptiFine_1.12.2_HD_U_F4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_F4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_E3.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.12.2_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_E2.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "E2",
+    "filename": "OptiFine_1.12.2_HD_U_E2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_E1.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "E1",
+    "filename": "OptiFine_1.12.2_HD_U_E1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_E1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_D3.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "D3",
+    "filename": "OptiFine_1.12.2_HD_U_D3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_D3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_D2.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "D2",
+    "filename": "OptiFine_1.12.2_HD_U_D2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_D2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_D1.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "D1",
+    "filename": "OptiFine_1.12.2_HD_U_D1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_D1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_C9.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "C9",
+    "filename": "OptiFine_1.12.2_HD_U_C9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_C8.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "C8",
+    "filename": "OptiFine_1.12.2_HD_U_C8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_C7.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "C7",
+    "filename": "OptiFine_1.12.2_HD_U_C7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_C6.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "C6",
+    "filename": "OptiFine_1.12.2_HD_U_C6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.2_HD_U_C5.jar",
+    "mc_version": "1.12.2",
+    "patch_version": "C5",
+    "filename": "OptiFine_1.12.2_HD_U_C5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.2_HD_U_C5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.1_HD_U_G5.jar",
+    "mc_version": "1.12.1",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.12.1_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.1_HD_U_F5.jar",
+    "mc_version": "1.12.1",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.12.1_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.1_HD_U_C7.jar",
+    "mc_version": "1.12.1",
+    "patch_version": "C7",
+    "filename": "OptiFine_1.12.1_HD_U_C7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_C7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.1_HD_U_C6.jar",
+    "mc_version": "1.12.1",
+    "patch_version": "C6",
+    "filename": "OptiFine_1.12.1_HD_U_C6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_C6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12.1_HD_U_C5.jar",
+    "mc_version": "1.12.1",
+    "patch_version": "C5",
+    "filename": "OptiFine_1.12.1_HD_U_C5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12.1_HD_U_C5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_G5.jar",
+    "mc_version": "1.12",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.12_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_F5.jar",
+    "mc_version": "1.12",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.12_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_C7.jar",
+    "mc_version": "1.12",
+    "patch_version": "C7",
+    "filename": "OptiFine_1.12_HD_U_C7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_C5.jar",
+    "mc_version": "1.12",
+    "patch_version": "C5",
+    "filename": "OptiFine_1.12_HD_U_C5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_C4.jar",
+    "mc_version": "1.12",
+    "patch_version": "C4",
+    "filename": "OptiFine_1.12_HD_U_C4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_C3.jar",
+    "mc_version": "1.12",
+    "patch_version": "C3",
+    "filename": "OptiFine_1.12_HD_U_C3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.12_HD_U_C2.jar",
+    "mc_version": "1.12",
+    "patch_version": "C2",
+    "filename": "OptiFine_1.12_HD_U_C2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.12_HD_U_C2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_G5.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.11.2_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_F5.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.11.2_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_C7.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "C7",
+    "filename": "OptiFine_1.11.2_HD_U_C7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_C3.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "C3",
+    "filename": "OptiFine_1.11.2_HD_U_C3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_C2.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "C2",
+    "filename": "OptiFine_1.11.2_HD_U_C2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_C1.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "C1",
+    "filename": "OptiFine_1.11.2_HD_U_C1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_C1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_B9.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "B9",
+    "filename": "OptiFine_1.11.2_HD_U_B9.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B9.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_B8.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "B8",
+    "filename": "OptiFine_1.11.2_HD_U_B8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_B7.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "B7",
+    "filename": "OptiFine_1.11.2_HD_U_B7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_B6.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "B6",
+    "filename": "OptiFine_1.11.2_HD_U_B6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11.2_HD_U_B5.jar",
+    "mc_version": "1.11.2",
+    "patch_version": "B5",
+    "filename": "OptiFine_1.11.2_HD_U_B5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11.2_HD_U_B5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_G5.jar",
+    "mc_version": "1.11",
+    "patch_version": "G5",
+    "filename": "OptiFine_1.11_HD_U_G5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_G5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_F5.jar",
+    "mc_version": "1.11",
+    "patch_version": "F5",
+    "filename": "OptiFine_1.11_HD_U_F5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_F5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_C7.jar",
+    "mc_version": "1.11",
+    "patch_version": "C7",
+    "filename": "OptiFine_1.11_HD_U_C7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_C7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_C3.jar",
+    "mc_version": "1.11",
+    "patch_version": "C3",
+    "filename": "OptiFine_1.11_HD_U_C3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_C3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B8.jar",
+    "mc_version": "1.11",
+    "patch_version": "B8",
+    "filename": "OptiFine_1.11_HD_U_B8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B7.jar",
+    "mc_version": "1.11",
+    "patch_version": "B7",
+    "filename": "OptiFine_1.11_HD_U_B7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B6.jar",
+    "mc_version": "1.11",
+    "patch_version": "B6",
+    "filename": "OptiFine_1.11_HD_U_B6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B5.jar",
+    "mc_version": "1.11",
+    "patch_version": "B5",
+    "filename": "OptiFine_1.11_HD_U_B5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B3.jar",
+    "mc_version": "1.11",
+    "patch_version": "B3",
+    "filename": "OptiFine_1.11_HD_U_B3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B2.jar",
+    "mc_version": "1.11",
+    "patch_version": "B2",
+    "filename": "OptiFine_1.11_HD_U_B2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.11_HD_U_B1.jar",
+    "mc_version": "1.11",
+    "patch_version": "B1",
+    "filename": "OptiFine_1.11_HD_U_B1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.11_HD_U_B1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_I5.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "I5",
+    "filename": "OptiFine_1.10.2_HD_U_I5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_I5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_H5.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.10.2_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_E7.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.10.2_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_E3.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.10.2_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D8.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D8",
+    "filename": "OptiFine_1.10.2_HD_U_D8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D7.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D7",
+    "filename": "OptiFine_1.10.2_HD_U_D7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D6.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D6",
+    "filename": "OptiFine_1.10.2_HD_U_D6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D4.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D4",
+    "filename": "OptiFine_1.10.2_HD_U_D4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D3.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D3",
+    "filename": "OptiFine_1.10.2_HD_U_D3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D2.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D2",
+    "filename": "OptiFine_1.10.2_HD_U_D2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_D1.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "D1",
+    "filename": "OptiFine_1.10.2_HD_U_D1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_D1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_C3.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "C3",
+    "filename": "OptiFine_1.10.2_HD_U_C3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_C3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_C2.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "C2",
+    "filename": "OptiFine_1.10.2_HD_U_C2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_C2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10.2_HD_U_C1.jar",
+    "mc_version": "1.10.2",
+    "patch_version": "C1",
+    "filename": "OptiFine_1.10.2_HD_U_C1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10.2_HD_U_C1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_I5.jar",
+    "mc_version": "1.10",
+    "patch_version": "I5",
+    "filename": "OptiFine_1.10_HD_U_I5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_I5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_H5.jar",
+    "mc_version": "1.10",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.10_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_E7.jar",
+    "mc_version": "1.10",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.10_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_E3.jar",
+    "mc_version": "1.10",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.10_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_D8.jar",
+    "mc_version": "1.10",
+    "patch_version": "D8",
+    "filename": "OptiFine_1.10_HD_U_D8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_D8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_D7.jar",
+    "mc_version": "1.10",
+    "patch_version": "D7",
+    "filename": "OptiFine_1.10_HD_U_D7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_D7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_C1.jar",
+    "mc_version": "1.10",
+    "patch_version": "C1",
+    "filename": "OptiFine_1.10_HD_U_C1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_C1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_B7.jar",
+    "mc_version": "1.10",
+    "patch_version": "B7",
+    "filename": "OptiFine_1.10_HD_U_B7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_B7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.10_HD_U_B6.jar",
+    "mc_version": "1.10",
+    "patch_version": "B6",
+    "filename": "OptiFine_1.10_HD_U_B6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.10_HD_U_B6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_I5.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "I5",
+    "filename": "OptiFine_1.9.4_HD_U_I5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_I5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_H5.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.9.4_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_E7.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.9.4_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_E3.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.9.4_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_D8.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "D8",
+    "filename": "OptiFine_1.9.4_HD_U_D8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_D8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_D7.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "D7",
+    "filename": "OptiFine_1.9.4_HD_U_D7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_D7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_B6.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "B6",
+    "filename": "OptiFine_1.9.4_HD_U_B6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_B6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_B5.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "B5",
+    "filename": "OptiFine_1.9.4_HD_U_B5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_B5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.4_HD_U_B4.jar",
+    "mc_version": "1.9.4",
+    "patch_version": "B4",
+    "filename": "OptiFine_1.9.4_HD_U_B4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.4_HD_U_B4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.2_HD_U_E3.jar",
+    "mc_version": "1.9.2",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.9.2_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.2_HD_U_D8.jar",
+    "mc_version": "1.9.2",
+    "patch_version": "D8",
+    "filename": "OptiFine_1.9.2_HD_U_D8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_D8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.2_HD_U_D7.jar",
+    "mc_version": "1.9.2",
+    "patch_version": "D7",
+    "filename": "OptiFine_1.9.2_HD_U_D7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_D7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.2_HD_U_B3.jar",
+    "mc_version": "1.9.2",
+    "patch_version": "B3",
+    "filename": "OptiFine_1.9.2_HD_U_B3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_B3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.2_HD_U_B2.jar",
+    "mc_version": "1.9.2",
+    "patch_version": "B2",
+    "filename": "OptiFine_1.9.2_HD_U_B2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_B2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.2_HD_U_B1.jar",
+    "mc_version": "1.9.2",
+    "patch_version": "B1",
+    "filename": "OptiFine_1.9.2_HD_U_B1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.2_HD_U_B1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_I5.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "I5",
+    "filename": "OptiFine_1.9.0_HD_U_I5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_I5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_H5.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.9.0_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_E7.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.9.0_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_E3.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.9.0_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_D8.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "D8",
+    "filename": "OptiFine_1.9.0_HD_U_D8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_D8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_D7.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "D7",
+    "filename": "OptiFine_1.9.0_HD_U_D7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_D7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_B5.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "B5",
+    "filename": "OptiFine_1.9.0_HD_U_B5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_B3.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "B3",
+    "filename": "OptiFine_1.9.0_HD_U_B3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_B2.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "B2",
+    "filename": "OptiFine_1.9.0_HD_U_B2.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B2.jar"
+  },
+  {
+    "full_name": "OptiFine_1.9.0_HD_U_B1.jar",
+    "mc_version": "1.9.0",
+    "patch_version": "B1",
+    "filename": "OptiFine_1.9.0_HD_U_B1.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.9.0_HD_U_B1.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_M5.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "M5",
+    "filename": "OptiFine_1.8.9_HD_U_M5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_M5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_L5.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "L5",
+    "filename": "OptiFine_1.8.9_HD_U_L5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_L5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_I7.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "I7",
+    "filename": "OptiFine_1.8.9_HD_U_I7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_I7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_I3.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "I3",
+    "filename": "OptiFine_1.8.9_HD_U_I3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_I3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_H8.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "H8",
+    "filename": "OptiFine_1.8.9_HD_U_H8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_H7.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "H7",
+    "filename": "OptiFine_1.8.9_HD_U_H7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_H6.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "H6",
+    "filename": "OptiFine_1.8.9_HD_U_H6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.9_HD_U_H5.jar",
+    "mc_version": "1.8.9",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.8.9_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.9_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.8_HD_U_I7.jar",
+    "mc_version": "1.8.8",
+    "patch_version": "I7",
+    "filename": "OptiFine_1.8.8_HD_U_I7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.8_HD_U_I3.jar",
+    "mc_version": "1.8.8",
+    "patch_version": "I3",
+    "filename": "OptiFine_1.8.8_HD_U_I3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_I3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.8_HD_U_H8.jar",
+    "mc_version": "1.8.8",
+    "patch_version": "H8",
+    "filename": "OptiFine_1.8.8_HD_U_H8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.8_HD_U_H7.jar",
+    "mc_version": "1.8.8",
+    "patch_version": "H7",
+    "filename": "OptiFine_1.8.8_HD_U_H7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.8_HD_U_H6.jar",
+    "mc_version": "1.8.8",
+    "patch_version": "H6",
+    "filename": "OptiFine_1.8.8_HD_U_H6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.8_HD_U_H5.jar",
+    "mc_version": "1.8.8",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.8.8_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.8_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.0_HD_U_I7.jar",
+    "mc_version": "1.8.0",
+    "patch_version": "I7",
+    "filename": "OptiFine_1.8.0_HD_U_I7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.0_HD_U_I3.jar",
+    "mc_version": "1.8.0",
+    "patch_version": "I3",
+    "filename": "OptiFine_1.8.0_HD_U_I3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_I3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.0_HD_U_H8.jar",
+    "mc_version": "1.8.0",
+    "patch_version": "H8",
+    "filename": "OptiFine_1.8.0_HD_U_H8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.0_HD_U_H7.jar",
+    "mc_version": "1.8.0",
+    "patch_version": "H7",
+    "filename": "OptiFine_1.8.0_HD_U_H7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.0_HD_U_H6.jar",
+    "mc_version": "1.8.0",
+    "patch_version": "H6",
+    "filename": "OptiFine_1.8.0_HD_U_H6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.8.0_HD_U_H5.jar",
+    "mc_version": "1.8.0",
+    "patch_version": "H5",
+    "filename": "OptiFine_1.8.0_HD_U_H5.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.8.0_HD_U_H5.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_E7.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.7.10_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_E3.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.7.10_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_E3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_D8.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "D8",
+    "filename": "OptiFine_1.7.10_HD_U_D8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_D7.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "D7",
+    "filename": "OptiFine_1.7.10_HD_U_D7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_D6.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "D6",
+    "filename": "OptiFine_1.7.10_HD_U_D6.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D6.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_D4.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "D4",
+    "filename": "OptiFine_1.7.10_HD_U_D4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.10_HD_U_D3.jar",
+    "mc_version": "1.7.10",
+    "patch_version": "D3",
+    "filename": "OptiFine_1.7.10_HD_U_D3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.10_HD_U_D3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.2_HD_U_F7.jar",
+    "mc_version": "1.7.2",
+    "patch_version": "F7",
+    "filename": "OptiFine_1.7.2_HD_U_F7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_F7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.2_HD_U_F3.jar",
+    "mc_version": "1.7.2",
+    "patch_version": "F3",
+    "filename": "OptiFine_1.7.2_HD_U_F3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_F3.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.2_HD_U_E8.jar",
+    "mc_version": "1.7.2",
+    "patch_version": "E8",
+    "filename": "OptiFine_1.7.2_HD_U_E8.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E8.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.2_HD_U_E7.jar",
+    "mc_version": "1.7.2",
+    "patch_version": "E7",
+    "filename": "OptiFine_1.7.2_HD_U_E7.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E7.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.2_HD_U_E4.jar",
+    "mc_version": "1.7.2",
+    "patch_version": "E4",
+    "filename": "OptiFine_1.7.2_HD_U_E4.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E4.jar"
+  },
+  {
+    "full_name": "OptiFine_1.7.2_HD_U_E3.jar",
+    "mc_version": "1.7.2",
+    "patch_version": "E3",
+    "filename": "OptiFine_1.7.2_HD_U_E3.jar",
+    "download_url": "https://optifine.net/adloadx?f=OptiFine_1.7.2_HD_U_E3.jar"
+  }
+]
